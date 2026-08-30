@@ -1,5 +1,7 @@
 # Policy As Code Guardrails — What OpenAI’s Agent Hack Couldn’t Bypass
 
+![Blog banner: sci-fi policy shield between OpenAI and Hugging Face](./blog-banner.png)
+
 **Victor Fang, 2026**
 
 **Policy as code is a security guardrail—not a prompt suggestion.** The July 2026 OpenAI ↔ Hugging Face incident made that painfully concrete: when eval agents escaped their sandbox and piled up ~**17,600** attacker actions on real infrastructure, *please don’t* in the system prompt was never going to be the control plane.

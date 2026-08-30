@@ -14,6 +14,7 @@ Suggested title: *Policy As Code Guardrails — What OpenAI’s Agent Hack Could
 opa-ai-agent-guardrail/
 ├── README.md
 ├── blog_opa_langgraph.md      # technical blog (OpenAI/HF context + OPA pattern)
+├── blog-banner.png            # sci-fi blog header (no text)
 ├── pnl_langgraph_agent.py     # LangGraph + OpenAI + OPA demo
 ├── policy/pnl_tool.rego       # CEO/CFO-only get_pnl policy
 └── requirements.txt
