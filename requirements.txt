@@ -1,0 +1,6 @@
+# OPA + LangGraph P&L agent demo
+# Author: Victor Fang, 2026
+openai>=1.40.0
+langchain-openai>=0.2.0
+langchain-core>=0.3.0
+langgraph>=0.2.0

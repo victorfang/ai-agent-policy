@@ -1,0 +1,31 @@
+# Python / local
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+.DS_Store
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor / IDE — do not publish Cursor (or VS Code) workspace junk
+.cursor/
+.cursorignore
+.cursorrules
+.vscode/
+*.code-workspace
+AGENTS.md
+
+# Agent / chat artifacts
+agent-transcripts/
+*.transcript
+*.jsonl
+
+# OS / secrets
+.idea/
+*.pem
+credentials.json
